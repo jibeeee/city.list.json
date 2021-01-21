@@ -1,0 +1,30 @@
+[{
+        "id": 1642911,
+        "name": "Jakarta",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 106.845131,
+            "lat": -6.21462
+        }
+    },
+	{
+        "id": 1625822,
+        "name": "Surabaya",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 112.750832,
+            "lat": -7.24917
+        }
+    },
+{
+        "id": 1214520,
+        "name": "Medan",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 98.666672,
+            "lat": 3.58333
+        }
+    }]
